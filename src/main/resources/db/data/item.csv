@@ -1,0 +1,4 @@
+id;name;code;description;catalog_code;is_active;catalog_id
+1;Cédula;DNI_TYPE;Número de cédula;IDENTIFICATION_TYPE;true;1
+2;RUC;RUC_TYPE;RUC;IDENTIFICATION_TYPE;true;1
+3;Pasaporte;PASSPORT_TYPE;Código de pasaporte;IDENTIFICATION_TYPE;true;1
