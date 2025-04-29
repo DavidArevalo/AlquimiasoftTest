@@ -12,7 +12,7 @@ docker-compose up -d
 ./mvnw spring-boot:run
 ```
 
-> **Nota:** El proyecto utiliza **Lombok**. Asegúrate de tenerlo configurado en tu IDE para evitar errores de compilación.
+> **Nota:** El proyecto utiliza **Lombok**.
 
 ## 🧪 Ejecutar los tests
 
